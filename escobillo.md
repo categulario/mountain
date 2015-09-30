@@ -1,5 +1,9 @@
 # Ruta del Salto del tigre
 
+## Llegada
+
+Tomaremos autobuses desde la central *CAXA* con dirección a Perote, ciudad en la que bajaremos para luego subir en taxi hasta la localidad de escobillo. El camión cuesta alrededor de $50, mientras que el taxi cobra $80 por las personas que le quepan (unas 4-5).
+
 ## Sobre el recorrido
 
 La ruta del *Salto del tigre* es una caminata que inicia en la localidad de *Escobillo* (municipio de Perote) a 3051 metros sobre el nivel del mar. Se recorre el bosque de coníferas de la cara noroeste del cofre por una vereda que se pierde entre los árboles a ratos.
