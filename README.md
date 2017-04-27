@@ -49,6 +49,9 @@ Cosas que suelen ser buenas:
 * alegrias
 * sopa instantánea
 * te o café
+* queso
+	- cabra
+	- hebra
 
 Se recomiendan dos litros de agua por persona, principalmente por la parte de la caminata. A veces hay agua en el camino, a veces no. Vale la pena preguntar al respecto para hacer la planeación del consumo.
 
@@ -67,7 +70,7 @@ Estas cosas son muy útiles allá arriba
 - cubiertos para comer
 - una taza o vaso
 
-# Colectivo
+## Colectivo
 
 De estas cosas solo se necesita una por cada tantas personas, podemos organizarnos para llevarlas:
 
