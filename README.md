@@ -2,7 +2,7 @@
 
 Estas son algunas cosas que deberían pensar en tener en su mochila para salir de campamento a media montaña. Eviten a toda costa llevar cosas en las manos para viajar más cómodos, así que traten de meterlo todo en una mochila.
 
-El equipaje se divide en `abrigo, `comida` y `todo lo demás`.
+El equipaje se divide en `abrigo`, `comida` y `todo lo demás`.
 
 ## Abrigo
 
